@@ -13,7 +13,7 @@ unsigned long delayTime=500;  // Delay between Frames
 
 /*
  // I WANT AMAKE THIS HAPPEN!!!!!!!!!!
-byte matrix1-4a[] =
+ **** matrix_1-4a[] =
 {
 B00000000000000000000000000000000,
 B00000000000000000000000000000000,
